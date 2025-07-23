@@ -1,10 +1,11 @@
 # Customer Churn Prediction using Machine Learning
 
-This project aims to predict whether a customer is likely to churn (leave the service) based on behavioral and demographic data. Early identification helps businesses take action and improve retention.
+This project aims to predict whether a customer is likely to churn (leave the service) based on behavioral and demographic data. Early identification helps businesses take action and improve customer retention strategies.
 
 ## 📂 Files Included
-- `Gitt.ipynb` – Jupyter Notebook with the complete implementation
-- `Modelling.csv` – Dataset with customer features and churn labels
+- `customer_churn_prediction.ipynb` – Jupyter Notebook with the complete implementation
+- `customer_churn_data.csv` – Dataset with customer features and churn labels
+- `final_predictions.csv` – Output file containing final churn predictions after model execution
 
 ## 🔍 Key Steps Performed
 - Data Cleaning & Preprocessing
@@ -13,8 +14,9 @@ This project aims to predict whether a customer is likely to churn (leave the se
 - Encoding Categorical Variables
 - Feature Scaling (StandardScaler)
 - Train-Test Split
-- Model Building (Logistic Regression)
-- Model Evaluation (Accuracy, Confusion Matrix)
+- Model Building (Logistic Regression, Random Forest)
+- Model Evaluation (Accuracy, Confusion Matrix, Classification Report)
+- Exporting final predictions to `final_predictions.csv`
 
 ## 🧰 Tools & Libraries Used
 - Python (Pandas, NumPy)
@@ -32,4 +34,4 @@ To help businesses identify customers at high risk of churn so they can proactiv
 ---
 
 🔗 Feel free to fork or explore the notebook.  
-📩 For suggestions or collaboration, connect on [LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/).
+📩 For suggestions or collaboration, connect on [LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/)
