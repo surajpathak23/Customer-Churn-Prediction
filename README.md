@@ -33,5 +33,15 @@ To help businesses identify customers at high risk of churn so they can proactiv
 
 ---
 
+### Languages Used
+
+![CSS](https://img.shields.io/badge/CSS-46.5%25-blue)
+![SCSS](https://img.shields.io/badge/SCSS-46.2%25-pink)
+![EJS](https://img.shields.io/badge/EJS-3.0%25-orange)
+![Python](https://img.shields.io/badge/Python-2.2%25-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-2.1%25-ffcc00)
+
+
+
 🔗 Feel free to fork or explore the notebook.  
 📩 For suggestions or collaboration, connect on [LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/)
